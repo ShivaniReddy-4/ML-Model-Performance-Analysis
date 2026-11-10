@@ -49,8 +49,6 @@ It also achieved the lowest MAE and RMSE values.
 
 ## Visualizations
 
-## Visualizations
-
 ### 1. Correlation Heatmap
 
 ![Correlation Heatmap](outputs/correlation_heatmap.png)
